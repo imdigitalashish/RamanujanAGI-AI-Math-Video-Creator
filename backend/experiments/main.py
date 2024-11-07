@@ -24,7 +24,7 @@ response = client.chat.completions.create(
 manim_code = response.choices[0].message.content
 print(manim_code)
 
-filename = "sine_wave_animation.py"
+filename = "./sine_wave_animation.py"
 with open(filename, "w") as file:
     file.write(manim_code)
 
