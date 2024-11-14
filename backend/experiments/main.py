@@ -12,11 +12,11 @@ client = AzureOpenAI(
         api_version="2024-08-01-preview",
 
 )
-prompt = "Write only the Raw Manim code nothing before it and after it no ```python or nothing just code in Python to "
+prompt = "Write only the Raw Manim code nothing before it and after it no ```python or nothing just code in Python to create a rectangle"
 
 # Call the completion endpoint
 response = client.chat.completions.create(
-    model="gpt-4o-mini",  # Replace with your desired model name
+    model="gpt-4o",  # Replace with your desired model name
     messages=[{"role": "user", "content": prompt}]
 )
 

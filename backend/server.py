@@ -28,12 +28,36 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+def sanitize_code_output(code_output: str) -> str:
+    """
+    Sanitize the output from LLM by removing Markdown code block indicators
+    only if they are present.
+
+    Args:
+        code_output (str): The raw output from the LLM.
+
+    Returns:
+        str: The sanitized code without Markdown formatting, or the original input if no indicators are found.
+    """
+    # Check if the input contains the Markdown code block indicators
+    if "```python" in code_output and "```" in code_output:
+        # Remove the Markdown code block indicators
+        sanitized_output = (
+            code_output.replace("```python", "")
+            .replace("```", "")
+            .strip()
+        )
+        return sanitized_output
+    else:
+        return code_output  # Return as is if no indicators are found
+
+
 @app.get("/get_the_video")
 def getTheVideo(prompt: str):
-    prompt = "Write only the Raw Manim code nothing before it and after it no ```python or nothing just code in Python to " + prompt
+    prompt = "Write only the Raw Manim code nothing else to create an intuitive animation for " + prompt
 
     response = client.chat.completions.create(
-        model="gpt-4o-mini",  # Replace with your desired model name
+        model="gpt-4o",  # Replace with your desired model name
         messages=[{"role": "user", "content": prompt}]
     )
     manim_code = response.choices[0].message.content
@@ -41,7 +65,7 @@ def getTheVideo(prompt: str):
 
     filename = f"{uuid.uuid4()}"
     with open("./"+filename+".py", "w") as file:
-        file.write(manim_code)
+        file.write(sanitize_code_output(manim_code))
 
     print(f"Manim code saved to {filename}")
 

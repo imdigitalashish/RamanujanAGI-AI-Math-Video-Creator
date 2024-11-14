@@ -9,11 +9,10 @@ export default function Home() {
   const [loading, setLoading] = useState(false); // State to track loading status
 
   const placeholders = [
-    "What's the first rule of Fight Club?",
-    "Who is Tyler Durden?",
-    "Where is Andrew Laeddis Hiding?",
-    "Write a Javascript method to reverse a string",
-    "How to assemble your own PC?",
+    "Permutation and Combination Animation?",
+    "A sine curve animationn?",
+    "A cos curve animation?",
+    "What is Python?",
   ];
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
