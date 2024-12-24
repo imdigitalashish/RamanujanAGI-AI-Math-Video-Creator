@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/57b3722f-2c18-4cd1-9509-8a38109b7f4d/480p15/partial_movie_files/SinCosAnimation/1185818338_149942771_223132457.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/57b3722f-2c18-4cd1-9509-8a38109b7f4d/480p15/partial_movie_files/SinCosAnimation/624642324_4271601148_1565710132.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/57b3722f-2c18-4cd1-9509-8a38109b7f4d/480p15/partial_movie_files/SinCosAnimation/624642324_4045800201_4085796526.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/57b3722f-2c18-4cd1-9509-8a38109b7f4d/480p15/partial_movie_files/SinCosAnimation/624642324_2108550141_1271223840.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/57b3722f-2c18-4cd1-9509-8a38109b7f4d/480p15/partial_movie_files/SinCosAnimation/624642324_26628468_3785628998.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/57b3722f-2c18-4cd1-9509-8a38109b7f4d/480p15/partial_movie_files/SinCosAnimation/624642324_73086382_4089529291.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/57b3722f-2c18-4cd1-9509-8a38109b7f4d/480p15/partial_movie_files/SinCosAnimation/624642324_3570459056_2279741646.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/57b3722f-2c18-4cd1-9509-8a38109b7f4d/480p15/partial_movie_files/SinCosAnimation/624642324_216268658_2458922422.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/57b3722f-2c18-4cd1-9509-8a38109b7f4d/480p15/partial_movie_files/SinCosAnimation/624642324_1141282389_309121586.mp4'

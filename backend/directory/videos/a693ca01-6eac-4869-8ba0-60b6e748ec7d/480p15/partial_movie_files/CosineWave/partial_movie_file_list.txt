@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/1185818338_2044189633_223132457.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/624642324_1922916529_3299225321.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/624642324_918111101_946848911.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/624642324_3714539667_762955221.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/624642324_3890345977_2140865469.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/624642324_1535415551_507997680.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/624642324_1141282389_2591405981.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/624642324_1385787512_2832288417.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/624642324_3890345977_1467913919.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/624642324_694900292_3787552914.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/a693ca01-6eac-4869-8ba0-60b6e748ec7d/480p15/partial_movie_files/CosineWave/624642324_1141282389_909586825.mp4'

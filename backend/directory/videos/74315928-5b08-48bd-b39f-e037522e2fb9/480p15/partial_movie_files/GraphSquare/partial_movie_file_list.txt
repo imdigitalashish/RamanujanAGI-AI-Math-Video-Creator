@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/1185818338_767329841_223132457.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/624642324_3063739441_2007745538.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/624642324_4087937992_3041938283.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/624642324_1002278114_3953381656.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/624642324_2179995295_88130210.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/624642324_2025664269_1527976898.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/624642324_1725635854_81956009.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/624642324_1141282389_3930057426.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/624642324_1954908079_789365754.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/624642324_1141282389_4245730394.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/74315928-5b08-48bd-b39f-e037522e2fb9/480p15/partial_movie_files/GraphSquare/624642324_574504088_2319484954.mp4'

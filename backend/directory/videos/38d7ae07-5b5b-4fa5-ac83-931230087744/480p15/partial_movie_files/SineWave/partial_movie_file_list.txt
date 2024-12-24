@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/38d7ae07-5b5b-4fa5-ac83-931230087744/480p15/partial_movie_files/SineWave/1185818338_2616480443_223132457.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/38d7ae07-5b5b-4fa5-ac83-931230087744/480p15/partial_movie_files/SineWave/624642324_833277998_3246593779.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/38d7ae07-5b5b-4fa5-ac83-931230087744/480p15/partial_movie_files/SineWave/624642324_3890345977_1896243688.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/38d7ae07-5b5b-4fa5-ac83-931230087744/480p15/partial_movie_files/SineWave/624642324_2841400191_4066700715.mp4'
+file 'file:/Users/imdigitalashish/Projects/Ashish/RamanujanAGI-AI-Math-Video-Creator/backend/directory/videos/38d7ae07-5b5b-4fa5-ac83-931230087744/480p15/partial_movie_files/SineWave/624642324_1141282389_3620787720.mp4'
